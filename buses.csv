@@ -1,0 +1,1001 @@
+bus_id,operator_id,bus_type,seat_capacity
+1,5,Non-AC Sleeper,30
+2,50,Non-AC Sleeper,36
+3,11,AC Sleeper,36
+4,7,AC Sleeper,36
+5,31,AC Sleeper,30
+6,26,Seater,30
+7,24,Non-AC Sleeper,32
+8,11,Non-AC Sleeper,32
+9,22,AC Sleeper,36
+10,45,Non-AC Sleeper,32
+11,41,Non-AC Sleeper,40
+12,23,Non-AC Sleeper,45
+13,37,Seater,32
+14,9,Seater,32
+15,30,AC Sleeper,45
+16,35,AC Sleeper,32
+17,34,Semi-Sleeper,45
+18,5,Seater,40
+19,49,Semi-Sleeper,45
+20,6,Non-AC Sleeper,32
+21,17,Seater,32
+22,38,AC Sleeper,45
+23,34,Semi-Sleeper,30
+24,45,Semi-Sleeper,36
+25,36,Semi-Sleeper,30
+26,17,Semi-Sleeper,36
+27,27,Seater,30
+28,46,Seater,36
+29,10,AC Sleeper,30
+30,44,Seater,32
+31,25,Semi-Sleeper,36
+32,15,AC Sleeper,32
+33,44,AC Sleeper,45
+34,27,Non-AC Sleeper,40
+35,2,Semi-Sleeper,30
+36,20,Seater,36
+37,26,Seater,30
+38,1,Semi-Sleeper,40
+39,14,Seater,32
+40,21,AC Sleeper,40
+41,23,Non-AC Sleeper,45
+42,20,AC Sleeper,32
+43,37,Seater,32
+44,13,Seater,32
+45,23,Seater,45
+46,27,AC Sleeper,40
+47,28,Semi-Sleeper,40
+48,2,Semi-Sleeper,30
+49,39,Semi-Sleeper,45
+50,46,AC Sleeper,36
+51,48,AC Sleeper,45
+52,5,AC Sleeper,45
+53,39,AC Sleeper,40
+54,2,AC Sleeper,32
+55,23,Semi-Sleeper,40
+56,31,Non-AC Sleeper,45
+57,23,Semi-Sleeper,40
+58,32,Non-AC Sleeper,40
+59,40,Seater,45
+60,42,Semi-Sleeper,40
+61,10,Semi-Sleeper,45
+62,41,AC Sleeper,45
+63,42,AC Sleeper,40
+64,32,AC Sleeper,30
+65,21,AC Sleeper,40
+66,48,Seater,32
+67,8,Semi-Sleeper,45
+68,43,Seater,30
+69,9,AC Sleeper,36
+70,37,AC Sleeper,45
+71,45,Seater,32
+72,28,Semi-Sleeper,36
+73,46,Non-AC Sleeper,36
+74,20,Seater,36
+75,28,Seater,32
+76,43,Seater,32
+77,32,Non-AC Sleeper,36
+78,30,AC Sleeper,36
+79,50,AC Sleeper,40
+80,46,Non-AC Sleeper,45
+81,12,AC Sleeper,30
+82,37,Non-AC Sleeper,45
+83,15,Non-AC Sleeper,30
+84,44,Semi-Sleeper,32
+85,47,Semi-Sleeper,40
+86,21,Non-AC Sleeper,30
+87,45,Semi-Sleeper,45
+88,18,Seater,36
+89,33,Seater,45
+90,31,Seater,45
+91,49,Semi-Sleeper,40
+92,47,Seater,30
+93,29,Seater,32
+94,26,AC Sleeper,40
+95,49,AC Sleeper,30
+96,33,AC Sleeper,32
+97,15,Non-AC Sleeper,45
+98,41,Non-AC Sleeper,45
+99,1,Semi-Sleeper,30
+100,26,AC Sleeper,40
+101,40,Non-AC Sleeper,40
+102,20,Seater,32
+103,11,Semi-Sleeper,45
+104,18,Semi-Sleeper,32
+105,28,Non-AC Sleeper,30
+106,23,Non-AC Sleeper,30
+107,50,Semi-Sleeper,32
+108,8,Non-AC Sleeper,45
+109,29,Seater,40
+110,10,Semi-Sleeper,32
+111,46,Semi-Sleeper,45
+112,12,Non-AC Sleeper,36
+113,47,Semi-Sleeper,30
+114,46,Semi-Sleeper,45
+115,30,AC Sleeper,40
+116,31,AC Sleeper,40
+117,25,AC Sleeper,45
+118,37,AC Sleeper,30
+119,48,Semi-Sleeper,40
+120,23,Seater,40
+121,6,Seater,36
+122,7,Non-AC Sleeper,40
+123,17,Seater,45
+124,13,Semi-Sleeper,40
+125,4,Non-AC Sleeper,40
+126,13,AC Sleeper,32
+127,29,Non-AC Sleeper,45
+128,45,Semi-Sleeper,32
+129,6,AC Sleeper,36
+130,3,Seater,40
+131,44,Seater,40
+132,7,Semi-Sleeper,32
+133,44,Non-AC Sleeper,32
+134,15,AC Sleeper,40
+135,8,AC Sleeper,40
+136,28,Non-AC Sleeper,32
+137,6,Non-AC Sleeper,32
+138,49,AC Sleeper,32
+139,5,Seater,32
+140,17,Semi-Sleeper,30
+141,22,Seater,45
+142,46,Non-AC Sleeper,32
+143,22,Semi-Sleeper,36
+144,31,Semi-Sleeper,45
+145,31,Non-AC Sleeper,32
+146,37,AC Sleeper,36
+147,35,Non-AC Sleeper,32
+148,11,AC Sleeper,32
+149,38,AC Sleeper,32
+150,29,Non-AC Sleeper,36
+151,3,AC Sleeper,32
+152,38,Seater,30
+153,50,Seater,30
+154,36,Seater,40
+155,14,Seater,45
+156,41,Non-AC Sleeper,40
+157,14,Seater,40
+158,40,AC Sleeper,36
+159,39,Non-AC Sleeper,45
+160,6,Non-AC Sleeper,32
+161,37,Seater,30
+162,22,Semi-Sleeper,40
+163,32,Semi-Sleeper,30
+164,9,Seater,40
+165,3,Seater,40
+166,27,AC Sleeper,45
+167,15,AC Sleeper,36
+168,34,Seater,36
+169,19,Seater,32
+170,20,Semi-Sleeper,32
+171,40,Seater,30
+172,33,Semi-Sleeper,40
+173,7,Seater,32
+174,34,AC Sleeper,36
+175,22,Semi-Sleeper,36
+176,24,Semi-Sleeper,36
+177,33,Semi-Sleeper,36
+178,4,Seater,32
+179,16,Non-AC Sleeper,40
+180,36,Semi-Sleeper,30
+181,28,AC Sleeper,40
+182,48,Seater,30
+183,25,Semi-Sleeper,30
+184,15,Seater,32
+185,42,Semi-Sleeper,30
+186,26,AC Sleeper,40
+187,16,Semi-Sleeper,32
+188,10,Non-AC Sleeper,40
+189,5,AC Sleeper,30
+190,6,Seater,36
+191,36,Semi-Sleeper,30
+192,7,Non-AC Sleeper,36
+193,30,Seater,45
+194,36,Semi-Sleeper,36
+195,13,AC Sleeper,40
+196,22,Semi-Sleeper,45
+197,44,AC Sleeper,40
+198,46,Semi-Sleeper,30
+199,5,Seater,40
+200,37,Seater,40
+201,32,Semi-Sleeper,32
+202,23,Semi-Sleeper,32
+203,4,Non-AC Sleeper,30
+204,34,Non-AC Sleeper,45
+205,27,Non-AC Sleeper,30
+206,19,Semi-Sleeper,45
+207,15,Semi-Sleeper,40
+208,46,Semi-Sleeper,36
+209,15,Non-AC Sleeper,32
+210,41,Seater,32
+211,14,Non-AC Sleeper,32
+212,44,AC Sleeper,32
+213,4,Seater,40
+214,11,Non-AC Sleeper,40
+215,26,Non-AC Sleeper,40
+216,40,Semi-Sleeper,45
+217,36,Seater,30
+218,22,Seater,30
+219,35,AC Sleeper,40
+220,4,Semi-Sleeper,36
+221,50,Semi-Sleeper,32
+222,29,Semi-Sleeper,30
+223,50,Seater,36
+224,3,Seater,40
+225,14,AC Sleeper,32
+226,50,Semi-Sleeper,40
+227,33,Non-AC Sleeper,30
+228,47,Non-AC Sleeper,45
+229,35,Semi-Sleeper,30
+230,22,Seater,45
+231,8,Non-AC Sleeper,32
+232,43,Non-AC Sleeper,30
+233,28,Non-AC Sleeper,45
+234,28,Seater,45
+235,10,Seater,40
+236,30,Non-AC Sleeper,30
+237,49,Seater,45
+238,5,Semi-Sleeper,30
+239,49,AC Sleeper,40
+240,47,Seater,40
+241,45,Semi-Sleeper,30
+242,39,AC Sleeper,36
+243,37,Seater,30
+244,24,Semi-Sleeper,30
+245,44,Non-AC Sleeper,40
+246,34,Seater,32
+247,48,Non-AC Sleeper,32
+248,46,Seater,30
+249,36,Semi-Sleeper,45
+250,47,Non-AC Sleeper,30
+251,18,Semi-Sleeper,30
+252,7,Non-AC Sleeper,40
+253,8,Seater,30
+254,36,AC Sleeper,30
+255,45,Non-AC Sleeper,45
+256,5,Non-AC Sleeper,32
+257,13,AC Sleeper,30
+258,38,AC Sleeper,36
+259,24,Non-AC Sleeper,40
+260,15,AC Sleeper,40
+261,32,Semi-Sleeper,40
+262,4,Non-AC Sleeper,45
+263,45,Non-AC Sleeper,36
+264,11,AC Sleeper,32
+265,45,Seater,36
+266,11,AC Sleeper,36
+267,42,Seater,36
+268,35,AC Sleeper,40
+269,12,AC Sleeper,32
+270,16,Seater,30
+271,24,AC Sleeper,32
+272,31,Seater,30
+273,39,Seater,45
+274,25,AC Sleeper,40
+275,24,Non-AC Sleeper,32
+276,37,Non-AC Sleeper,30
+277,2,AC Sleeper,45
+278,39,AC Sleeper,32
+279,16,Semi-Sleeper,40
+280,28,AC Sleeper,32
+281,6,Non-AC Sleeper,32
+282,36,Semi-Sleeper,45
+283,28,Semi-Sleeper,36
+284,49,Seater,45
+285,18,Non-AC Sleeper,30
+286,36,AC Sleeper,40
+287,30,AC Sleeper,45
+288,5,Semi-Sleeper,45
+289,17,AC Sleeper,40
+290,44,Semi-Sleeper,45
+291,49,Seater,36
+292,7,Semi-Sleeper,36
+293,33,AC Sleeper,40
+294,9,Semi-Sleeper,40
+295,18,AC Sleeper,36
+296,1,AC Sleeper,32
+297,17,AC Sleeper,36
+298,19,Non-AC Sleeper,45
+299,32,Seater,40
+300,28,Semi-Sleeper,45
+301,12,AC Sleeper,40
+302,25,AC Sleeper,40
+303,33,Non-AC Sleeper,45
+304,43,Seater,45
+305,33,Non-AC Sleeper,45
+306,17,AC Sleeper,45
+307,10,Seater,30
+308,33,Seater,36
+309,41,AC Sleeper,45
+310,21,Semi-Sleeper,30
+311,31,Seater,30
+312,7,Seater,30
+313,42,Seater,32
+314,30,Semi-Sleeper,32
+315,15,Non-AC Sleeper,40
+316,18,AC Sleeper,32
+317,46,Non-AC Sleeper,45
+318,3,Non-AC Sleeper,30
+319,7,Semi-Sleeper,32
+320,33,Non-AC Sleeper,45
+321,42,AC Sleeper,40
+322,40,AC Sleeper,36
+323,16,Semi-Sleeper,30
+324,25,Seater,30
+325,14,AC Sleeper,36
+326,27,Semi-Sleeper,45
+327,13,Semi-Sleeper,45
+328,29,Non-AC Sleeper,30
+329,47,Semi-Sleeper,36
+330,46,Seater,32
+331,3,Non-AC Sleeper,36
+332,46,AC Sleeper,32
+333,25,AC Sleeper,32
+334,30,AC Sleeper,40
+335,41,Non-AC Sleeper,36
+336,41,AC Sleeper,32
+337,3,AC Sleeper,40
+338,24,Seater,40
+339,21,Seater,45
+340,47,Seater,32
+341,34,Seater,40
+342,5,AC Sleeper,30
+343,44,AC Sleeper,45
+344,37,Semi-Sleeper,40
+345,22,Non-AC Sleeper,45
+346,15,AC Sleeper,36
+347,23,Non-AC Sleeper,36
+348,42,AC Sleeper,30
+349,19,AC Sleeper,40
+350,28,Seater,30
+351,47,Seater,36
+352,13,Seater,36
+353,36,Seater,40
+354,37,AC Sleeper,32
+355,15,Seater,40
+356,6,Seater,45
+357,8,Non-AC Sleeper,40
+358,35,Non-AC Sleeper,32
+359,27,Semi-Sleeper,32
+360,50,Non-AC Sleeper,45
+361,21,Non-AC Sleeper,45
+362,6,Non-AC Sleeper,40
+363,15,Non-AC Sleeper,30
+364,8,AC Sleeper,45
+365,46,Semi-Sleeper,30
+366,13,Seater,32
+367,30,Seater,30
+368,13,Seater,36
+369,33,Seater,36
+370,11,AC Sleeper,36
+371,15,Seater,32
+372,47,Semi-Sleeper,32
+373,44,AC Sleeper,40
+374,8,AC Sleeper,32
+375,48,Non-AC Sleeper,40
+376,11,Semi-Sleeper,45
+377,3,Non-AC Sleeper,45
+378,40,AC Sleeper,32
+379,44,Seater,30
+380,11,Non-AC Sleeper,45
+381,34,Seater,32
+382,28,Semi-Sleeper,30
+383,40,AC Sleeper,30
+384,37,Seater,36
+385,3,AC Sleeper,40
+386,23,Non-AC Sleeper,32
+387,23,Seater,45
+388,26,Semi-Sleeper,40
+389,7,AC Sleeper,36
+390,24,Non-AC Sleeper,45
+391,34,Non-AC Sleeper,30
+392,7,Non-AC Sleeper,40
+393,34,AC Sleeper,45
+394,24,Non-AC Sleeper,32
+395,2,Semi-Sleeper,45
+396,29,Semi-Sleeper,32
+397,14,AC Sleeper,45
+398,1,Non-AC Sleeper,32
+399,37,Non-AC Sleeper,40
+400,29,Non-AC Sleeper,36
+401,5,Non-AC Sleeper,32
+402,31,Semi-Sleeper,40
+403,33,Seater,30
+404,47,Seater,30
+405,27,Non-AC Sleeper,36
+406,26,AC Sleeper,40
+407,20,Semi-Sleeper,30
+408,14,Non-AC Sleeper,30
+409,29,Non-AC Sleeper,32
+410,34,Seater,36
+411,9,Non-AC Sleeper,36
+412,43,Seater,30
+413,41,Non-AC Sleeper,36
+414,26,Seater,36
+415,20,Non-AC Sleeper,32
+416,4,AC Sleeper,36
+417,47,AC Sleeper,45
+418,28,AC Sleeper,40
+419,42,Semi-Sleeper,36
+420,28,Semi-Sleeper,30
+421,45,AC Sleeper,32
+422,18,AC Sleeper,30
+423,13,Non-AC Sleeper,30
+424,34,AC Sleeper,45
+425,4,Seater,36
+426,12,Semi-Sleeper,32
+427,6,Non-AC Sleeper,36
+428,26,Non-AC Sleeper,32
+429,27,Semi-Sleeper,45
+430,43,AC Sleeper,36
+431,6,AC Sleeper,45
+432,37,Seater,32
+433,14,Seater,30
+434,14,AC Sleeper,30
+435,41,AC Sleeper,45
+436,18,Non-AC Sleeper,36
+437,15,Non-AC Sleeper,30
+438,16,AC Sleeper,36
+439,42,Semi-Sleeper,36
+440,26,Non-AC Sleeper,40
+441,14,Semi-Sleeper,32
+442,14,Non-AC Sleeper,36
+443,33,Seater,32
+444,3,Non-AC Sleeper,30
+445,28,Semi-Sleeper,32
+446,41,Semi-Sleeper,45
+447,15,AC Sleeper,30
+448,46,Semi-Sleeper,32
+449,7,Seater,36
+450,46,AC Sleeper,40
+451,15,Non-AC Sleeper,45
+452,10,Non-AC Sleeper,45
+453,12,AC Sleeper,30
+454,32,AC Sleeper,32
+455,39,Seater,30
+456,6,Non-AC Sleeper,40
+457,27,AC Sleeper,30
+458,34,Non-AC Sleeper,36
+459,14,Non-AC Sleeper,40
+460,17,Semi-Sleeper,32
+461,16,Non-AC Sleeper,32
+462,37,Semi-Sleeper,40
+463,42,Non-AC Sleeper,36
+464,32,Seater,32
+465,49,AC Sleeper,45
+466,36,AC Sleeper,40
+467,27,Non-AC Sleeper,40
+468,4,Non-AC Sleeper,45
+469,4,Non-AC Sleeper,36
+470,6,AC Sleeper,40
+471,15,Semi-Sleeper,45
+472,44,AC Sleeper,40
+473,30,Seater,40
+474,49,AC Sleeper,32
+475,25,Semi-Sleeper,30
+476,16,Seater,30
+477,47,Seater,40
+478,34,Seater,32
+479,18,Semi-Sleeper,45
+480,11,Semi-Sleeper,32
+481,44,Non-AC Sleeper,40
+482,19,AC Sleeper,45
+483,49,Semi-Sleeper,30
+484,43,Semi-Sleeper,30
+485,37,Non-AC Sleeper,32
+486,50,Seater,36
+487,31,Semi-Sleeper,40
+488,45,Semi-Sleeper,45
+489,48,AC Sleeper,30
+490,6,AC Sleeper,32
+491,10,AC Sleeper,40
+492,50,Semi-Sleeper,45
+493,7,AC Sleeper,36
+494,19,Seater,45
+495,41,Semi-Sleeper,32
+496,18,Non-AC Sleeper,45
+497,34,Semi-Sleeper,32
+498,45,Non-AC Sleeper,40
+499,20,Non-AC Sleeper,40
+500,36,Semi-Sleeper,30
+501,26,Semi-Sleeper,32
+502,40,Non-AC Sleeper,40
+503,27,Seater,32
+504,21,AC Sleeper,36
+505,20,Semi-Sleeper,30
+506,27,Non-AC Sleeper,30
+507,23,Non-AC Sleeper,36
+508,50,AC Sleeper,32
+509,24,AC Sleeper,45
+510,42,Non-AC Sleeper,45
+511,11,Semi-Sleeper,36
+512,6,Non-AC Sleeper,32
+513,5,Non-AC Sleeper,45
+514,49,AC Sleeper,36
+515,2,AC Sleeper,32
+516,19,Semi-Sleeper,36
+517,27,Semi-Sleeper,45
+518,15,AC Sleeper,32
+519,49,AC Sleeper,36
+520,24,Seater,32
+521,29,Semi-Sleeper,30
+522,41,AC Sleeper,30
+523,50,Semi-Sleeper,36
+524,24,AC Sleeper,45
+525,50,Non-AC Sleeper,32
+526,13,Semi-Sleeper,32
+527,24,Seater,30
+528,12,Non-AC Sleeper,32
+529,34,Seater,32
+530,7,Seater,45
+531,13,AC Sleeper,36
+532,25,AC Sleeper,36
+533,12,Non-AC Sleeper,40
+534,21,AC Sleeper,32
+535,24,Semi-Sleeper,36
+536,20,Non-AC Sleeper,36
+537,11,AC Sleeper,40
+538,34,Non-AC Sleeper,30
+539,18,AC Sleeper,45
+540,43,Seater,40
+541,47,Seater,36
+542,25,Semi-Sleeper,30
+543,12,Semi-Sleeper,45
+544,40,Semi-Sleeper,40
+545,33,Non-AC Sleeper,40
+546,24,Seater,40
+547,37,Semi-Sleeper,32
+548,38,AC Sleeper,40
+549,33,AC Sleeper,32
+550,12,AC Sleeper,32
+551,8,Semi-Sleeper,36
+552,1,Non-AC Sleeper,36
+553,15,AC Sleeper,45
+554,1,Semi-Sleeper,45
+555,45,Semi-Sleeper,32
+556,14,AC Sleeper,45
+557,45,AC Sleeper,36
+558,39,Seater,36
+559,37,Seater,40
+560,15,Seater,32
+561,49,Seater,32
+562,29,Non-AC Sleeper,30
+563,7,Non-AC Sleeper,36
+564,3,AC Sleeper,30
+565,20,AC Sleeper,32
+566,44,Semi-Sleeper,45
+567,2,Non-AC Sleeper,30
+568,43,Non-AC Sleeper,40
+569,38,Non-AC Sleeper,36
+570,35,Non-AC Sleeper,32
+571,45,Seater,36
+572,16,AC Sleeper,36
+573,7,AC Sleeper,32
+574,6,Semi-Sleeper,32
+575,18,Non-AC Sleeper,36
+576,30,Semi-Sleeper,30
+577,39,Non-AC Sleeper,45
+578,10,AC Sleeper,30
+579,3,AC Sleeper,30
+580,22,Non-AC Sleeper,30
+581,43,Non-AC Sleeper,32
+582,13,Semi-Sleeper,45
+583,10,AC Sleeper,36
+584,11,Seater,32
+585,15,Semi-Sleeper,32
+586,34,Seater,36
+587,10,Seater,45
+588,10,AC Sleeper,30
+589,3,Semi-Sleeper,36
+590,43,Seater,40
+591,15,Non-AC Sleeper,30
+592,34,Semi-Sleeper,30
+593,8,Seater,45
+594,30,Seater,32
+595,2,Semi-Sleeper,36
+596,15,AC Sleeper,36
+597,43,Seater,40
+598,32,AC Sleeper,36
+599,37,AC Sleeper,30
+600,12,Non-AC Sleeper,30
+601,48,Seater,32
+602,18,AC Sleeper,40
+603,13,AC Sleeper,45
+604,26,AC Sleeper,30
+605,29,Non-AC Sleeper,32
+606,44,Seater,32
+607,48,Semi-Sleeper,32
+608,46,Non-AC Sleeper,40
+609,39,Seater,32
+610,3,Semi-Sleeper,36
+611,23,Seater,32
+612,5,Non-AC Sleeper,32
+613,38,Semi-Sleeper,45
+614,21,Semi-Sleeper,45
+615,2,AC Sleeper,30
+616,16,AC Sleeper,40
+617,36,Semi-Sleeper,32
+618,4,Non-AC Sleeper,30
+619,3,Seater,30
+620,21,Non-AC Sleeper,32
+621,41,Seater,30
+622,37,Non-AC Sleeper,30
+623,28,Seater,40
+624,45,Non-AC Sleeper,32
+625,47,Non-AC Sleeper,36
+626,44,AC Sleeper,32
+627,16,AC Sleeper,40
+628,34,Non-AC Sleeper,40
+629,4,Non-AC Sleeper,36
+630,14,AC Sleeper,36
+631,11,Seater,30
+632,13,Semi-Sleeper,45
+633,21,Non-AC Sleeper,32
+634,1,AC Sleeper,36
+635,37,Semi-Sleeper,32
+636,36,Semi-Sleeper,40
+637,25,Semi-Sleeper,45
+638,2,Non-AC Sleeper,36
+639,16,Seater,36
+640,24,Seater,40
+641,23,Seater,32
+642,30,AC Sleeper,32
+643,28,Seater,45
+644,44,Seater,40
+645,17,Seater,32
+646,6,Non-AC Sleeper,36
+647,34,AC Sleeper,45
+648,7,Non-AC Sleeper,45
+649,1,Non-AC Sleeper,45
+650,45,AC Sleeper,45
+651,50,Non-AC Sleeper,45
+652,46,AC Sleeper,30
+653,14,Semi-Sleeper,30
+654,30,Non-AC Sleeper,30
+655,50,AC Sleeper,30
+656,46,Seater,36
+657,49,Seater,36
+658,11,Seater,40
+659,35,Semi-Sleeper,32
+660,1,Non-AC Sleeper,40
+661,25,Seater,45
+662,34,Seater,45
+663,48,AC Sleeper,30
+664,33,Non-AC Sleeper,30
+665,17,Non-AC Sleeper,36
+666,24,AC Sleeper,32
+667,30,AC Sleeper,30
+668,18,Seater,30
+669,1,AC Sleeper,45
+670,16,Semi-Sleeper,36
+671,39,Semi-Sleeper,45
+672,27,Semi-Sleeper,36
+673,6,AC Sleeper,45
+674,35,Seater,32
+675,13,Semi-Sleeper,40
+676,3,AC Sleeper,45
+677,22,Non-AC Sleeper,45
+678,25,Semi-Sleeper,45
+679,7,Seater,45
+680,11,AC Sleeper,36
+681,49,Non-AC Sleeper,36
+682,47,AC Sleeper,36
+683,14,Semi-Sleeper,32
+684,45,Seater,30
+685,33,Semi-Sleeper,36
+686,4,Semi-Sleeper,32
+687,24,Semi-Sleeper,30
+688,19,AC Sleeper,32
+689,28,AC Sleeper,40
+690,1,AC Sleeper,45
+691,11,Non-AC Sleeper,32
+692,4,Non-AC Sleeper,32
+693,13,Non-AC Sleeper,40
+694,42,Seater,32
+695,34,AC Sleeper,45
+696,17,AC Sleeper,40
+697,39,Non-AC Sleeper,36
+698,38,Semi-Sleeper,36
+699,3,Non-AC Sleeper,36
+700,31,Seater,45
+701,7,Semi-Sleeper,32
+702,27,Semi-Sleeper,40
+703,11,Seater,36
+704,20,Semi-Sleeper,36
+705,32,Semi-Sleeper,40
+706,35,AC Sleeper,36
+707,22,AC Sleeper,30
+708,10,Seater,45
+709,4,Semi-Sleeper,36
+710,33,AC Sleeper,45
+711,44,AC Sleeper,45
+712,16,Semi-Sleeper,32
+713,45,AC Sleeper,30
+714,16,Seater,36
+715,7,AC Sleeper,45
+716,35,Seater,30
+717,37,Semi-Sleeper,36
+718,25,AC Sleeper,30
+719,48,AC Sleeper,36
+720,2,Semi-Sleeper,40
+721,47,AC Sleeper,30
+722,31,Seater,45
+723,3,AC Sleeper,30
+724,19,Non-AC Sleeper,30
+725,41,AC Sleeper,45
+726,43,Semi-Sleeper,32
+727,47,AC Sleeper,45
+728,29,Non-AC Sleeper,36
+729,31,Semi-Sleeper,45
+730,42,Semi-Sleeper,40
+731,2,Non-AC Sleeper,40
+732,40,Semi-Sleeper,45
+733,14,Seater,30
+734,13,Seater,36
+735,45,Semi-Sleeper,45
+736,34,Non-AC Sleeper,30
+737,42,Seater,36
+738,40,Non-AC Sleeper,30
+739,13,Seater,32
+740,37,Semi-Sleeper,36
+741,29,AC Sleeper,36
+742,7,AC Sleeper,32
+743,5,Semi-Sleeper,40
+744,25,Non-AC Sleeper,40
+745,2,Seater,45
+746,18,Semi-Sleeper,36
+747,10,Non-AC Sleeper,30
+748,24,Semi-Sleeper,32
+749,50,AC Sleeper,36
+750,49,Seater,36
+751,29,Non-AC Sleeper,32
+752,19,AC Sleeper,45
+753,44,Semi-Sleeper,32
+754,16,Seater,45
+755,4,Semi-Sleeper,45
+756,12,Non-AC Sleeper,30
+757,25,AC Sleeper,36
+758,5,Non-AC Sleeper,40
+759,4,Seater,40
+760,8,Non-AC Sleeper,36
+761,33,Seater,36
+762,27,Semi-Sleeper,36
+763,44,Semi-Sleeper,45
+764,45,Semi-Sleeper,30
+765,22,Non-AC Sleeper,30
+766,29,Seater,30
+767,5,Semi-Sleeper,40
+768,8,Non-AC Sleeper,32
+769,10,Seater,45
+770,40,Semi-Sleeper,45
+771,8,Semi-Sleeper,36
+772,43,AC Sleeper,30
+773,46,AC Sleeper,36
+774,10,AC Sleeper,36
+775,19,Non-AC Sleeper,32
+776,42,Non-AC Sleeper,40
+777,39,AC Sleeper,45
+778,31,AC Sleeper,30
+779,1,Seater,32
+780,25,AC Sleeper,32
+781,43,AC Sleeper,45
+782,22,AC Sleeper,30
+783,41,Non-AC Sleeper,36
+784,29,Non-AC Sleeper,40
+785,27,AC Sleeper,30
+786,50,Non-AC Sleeper,32
+787,5,Semi-Sleeper,32
+788,23,Semi-Sleeper,32
+789,39,Non-AC Sleeper,40
+790,39,Semi-Sleeper,45
+791,37,Seater,32
+792,9,Semi-Sleeper,32
+793,1,Seater,32
+794,12,Semi-Sleeper,40
+795,42,Seater,40
+796,39,AC Sleeper,40
+797,5,Non-AC Sleeper,30
+798,19,Non-AC Sleeper,30
+799,48,Semi-Sleeper,32
+800,38,AC Sleeper,45
+801,27,Semi-Sleeper,36
+802,49,Non-AC Sleeper,30
+803,30,Non-AC Sleeper,36
+804,50,Seater,45
+805,36,Seater,36
+806,1,Semi-Sleeper,40
+807,2,AC Sleeper,36
+808,33,Non-AC Sleeper,32
+809,30,Non-AC Sleeper,40
+810,47,Semi-Sleeper,40
+811,9,Semi-Sleeper,30
+812,28,Semi-Sleeper,40
+813,19,Semi-Sleeper,40
+814,21,Semi-Sleeper,32
+815,31,Seater,30
+816,25,Semi-Sleeper,40
+817,26,Semi-Sleeper,36
+818,32,Seater,36
+819,27,Non-AC Sleeper,40
+820,2,AC Sleeper,36
+821,43,Seater,30
+822,32,Semi-Sleeper,40
+823,12,Semi-Sleeper,40
+824,3,AC Sleeper,45
+825,47,AC Sleeper,45
+826,25,Semi-Sleeper,40
+827,49,Semi-Sleeper,36
+828,40,Semi-Sleeper,45
+829,31,AC Sleeper,30
+830,34,Semi-Sleeper,45
+831,47,Seater,32
+832,31,Semi-Sleeper,32
+833,38,AC Sleeper,45
+834,4,Non-AC Sleeper,40
+835,19,Seater,45
+836,14,Semi-Sleeper,36
+837,8,Semi-Sleeper,40
+838,3,Seater,30
+839,50,AC Sleeper,32
+840,20,Semi-Sleeper,45
+841,45,Non-AC Sleeper,36
+842,24,Seater,36
+843,43,Seater,32
+844,35,Seater,30
+845,42,Semi-Sleeper,45
+846,14,Seater,30
+847,42,AC Sleeper,40
+848,28,Seater,30
+849,39,AC Sleeper,45
+850,28,Non-AC Sleeper,45
+851,40,Seater,40
+852,8,Non-AC Sleeper,40
+853,8,Seater,45
+854,6,Non-AC Sleeper,32
+855,3,Seater,36
+856,33,Semi-Sleeper,45
+857,6,AC Sleeper,45
+858,31,Semi-Sleeper,32
+859,30,AC Sleeper,36
+860,27,Seater,36
+861,1,Semi-Sleeper,30
+862,44,Non-AC Sleeper,40
+863,4,AC Sleeper,30
+864,31,Semi-Sleeper,36
+865,47,AC Sleeper,40
+866,10,Non-AC Sleeper,30
+867,1,Seater,45
+868,4,AC Sleeper,45
+869,1,Non-AC Sleeper,36
+870,4,Non-AC Sleeper,45
+871,25,Semi-Sleeper,30
+872,34,Seater,30
+873,25,AC Sleeper,30
+874,17,Non-AC Sleeper,40
+875,44,AC Sleeper,32
+876,7,Non-AC Sleeper,36
+877,25,Seater,32
+878,2,Seater,45
+879,4,Seater,40
+880,16,AC Sleeper,32
+881,37,Seater,45
+882,32,Semi-Sleeper,30
+883,5,Seater,45
+884,24,Non-AC Sleeper,32
+885,4,Seater,32
+886,6,Seater,40
+887,23,Non-AC Sleeper,40
+888,50,Semi-Sleeper,40
+889,38,AC Sleeper,30
+890,29,Seater,32
+891,43,AC Sleeper,45
+892,31,AC Sleeper,32
+893,31,AC Sleeper,30
+894,17,Non-AC Sleeper,30
+895,11,Semi-Sleeper,45
+896,26,Semi-Sleeper,40
+897,1,Non-AC Sleeper,30
+898,32,AC Sleeper,45
+899,32,AC Sleeper,45
+900,16,AC Sleeper,40
+901,27,Seater,32
+902,47,Non-AC Sleeper,32
+903,33,AC Sleeper,45
+904,43,Non-AC Sleeper,36
+905,28,AC Sleeper,45
+906,14,Non-AC Sleeper,36
+907,47,Non-AC Sleeper,30
+908,25,Semi-Sleeper,40
+909,46,Seater,32
+910,5,Seater,40
+911,19,Seater,36
+912,9,Semi-Sleeper,32
+913,34,Seater,30
+914,14,Semi-Sleeper,45
+915,16,Semi-Sleeper,32
+916,1,Semi-Sleeper,32
+917,16,Semi-Sleeper,36
+918,4,Seater,32
+919,45,Seater,36
+920,44,Semi-Sleeper,45
+921,19,Non-AC Sleeper,30
+922,32,Seater,36
+923,22,Semi-Sleeper,45
+924,48,Non-AC Sleeper,45
+925,47,Semi-Sleeper,36
+926,10,Non-AC Sleeper,32
+927,47,AC Sleeper,36
+928,22,AC Sleeper,30
+929,34,Semi-Sleeper,30
+930,10,Non-AC Sleeper,40
+931,47,Non-AC Sleeper,30
+932,2,Seater,36
+933,23,AC Sleeper,36
+934,3,Semi-Sleeper,45
+935,12,AC Sleeper,40
+936,24,Seater,32
+937,8,Semi-Sleeper,40
+938,6,AC Sleeper,45
+939,26,Semi-Sleeper,36
+940,20,AC Sleeper,40
+941,43,Seater,45
+942,24,Seater,36
+943,29,Non-AC Sleeper,45
+944,5,Semi-Sleeper,32
+945,19,Semi-Sleeper,40
+946,16,AC Sleeper,45
+947,39,AC Sleeper,30
+948,17,AC Sleeper,30
+949,27,Non-AC Sleeper,36
+950,48,AC Sleeper,36
+951,14,Seater,30
+952,35,AC Sleeper,40
+953,36,Semi-Sleeper,40
+954,27,Semi-Sleeper,36
+955,8,AC Sleeper,30
+956,44,Seater,32
+957,34,AC Sleeper,32
+958,45,Seater,45
+959,46,Non-AC Sleeper,36
+960,11,Non-AC Sleeper,45
+961,50,Seater,40
+962,39,Non-AC Sleeper,40
+963,48,Non-AC Sleeper,45
+964,22,AC Sleeper,36
+965,10,Seater,32
+966,11,Semi-Sleeper,45
+967,4,Non-AC Sleeper,36
+968,38,Seater,32
+969,23,AC Sleeper,30
+970,42,AC Sleeper,36
+971,11,Seater,36
+972,6,AC Sleeper,32
+973,8,Non-AC Sleeper,30
+974,34,AC Sleeper,32
+975,20,Non-AC Sleeper,45
+976,2,Seater,45
+977,42,AC Sleeper,40
+978,37,Non-AC Sleeper,45
+979,50,Seater,30
+980,46,Semi-Sleeper,36
+981,1,AC Sleeper,40
+982,47,Non-AC Sleeper,45
+983,25,Semi-Sleeper,40
+984,9,Non-AC Sleeper,45
+985,20,Semi-Sleeper,45
+986,18,AC Sleeper,30
+987,27,Seater,32
+988,46,AC Sleeper,36
+989,26,Seater,45
+990,46,Seater,40
+991,41,Non-AC Sleeper,45
+992,50,Non-AC Sleeper,36
+993,38,Seater,36
+994,16,AC Sleeper,30
+995,27,AC Sleeper,45
+996,19,Semi-Sleeper,32
+997,37,Non-AC Sleeper,40
+998,45,Non-AC Sleeper,30
+999,26,Non-AC Sleeper,30
+1000,28,Semi-Sleeper,45
