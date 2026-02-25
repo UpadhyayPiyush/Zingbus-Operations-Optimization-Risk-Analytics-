@@ -120,19 +120,24 @@ CREATE TABLE delays (
 
 ## Visuals Analysis
 ![img1](https://github.com/UpadhyayPiyush/Zingbus-Operations-Optimization-Risk-Analytics-/blob/main/Graphs/img1.png)  
-This chart shows that a few partner operators consistently have higher cancellation rates than the platform average (~8%). It indicates that cancellations are not random but linked to specific service providers. These operators may be facing operational issues such as poor fleet management, scheduling delays, or last-minute trip changes. Zingbus can improve reliability by auditing these operators, enforcing performance SLAs, or reallocating high-demand routes to better-performing partners. Monitoring operator-level KPIs regularly can directly reduce revenue loss and improve customer trust.  
+This chart shows that a few partner operators consistently have higher cancellation rates than the platform average (~8%). It indicates that cancellations are not random but linked to specific service providers. These operators may be facing operational issues such as poor fleet management, scheduling delays, or last-minute trip changes. Zingbus can improve reliability by auditing these operators, enforcing performance SLAs, or reallocating high-demand routes to better-performing partners. Monitoring operator-level KPIs regularly can directly reduce revenue loss and improve customer trust.   
+
 
 ![img2](https://github.com/UpadhyayPiyush/Zingbus-Operations-Optimization-Risk-Analytics-/blob/main/Graphs/img2.png)  
 This chart highlights routes where passengers cancel bookings more frequently than others. Many of these routes appear to be long-distance or hill routes, which are operationally complex and prone to uncertainty in travel time. High cancellations on these routes suggest scheduling mismatch, delay expectations, or unreliable trip execution. Zingbus can improve performance by adjusting departure timings, reducing over-frequency, or assigning more reliable operators to these routes. Proactive communication or flexible rescheduling options on these routes could also help reduce cancellations and improve customer satisfaction.  
 
+
 ![img3](https://github.com/UpadhyayPiyush/Zingbus-Operations-Optimization-Risk-Analytics-/blob/main/Graphs/img3.png)  
 This chart analyzes whether departure timing influences booking cancellations. The cancellation rate remains almost consistent across all hours of the day, indicating that time of departure alone is not a major driver of cancellations. This suggests that operational reliability (such as operator performance and route complexity) has a stronger impact than scheduling hour. Therefore, simply rescheduling buses to different times will not significantly reduce cancellations. Zingbus should instead prioritize improving operator reliability and route execution quality rather than relying only on timing adjustments.  
+
 
 ![img4](https://github.com/UpadhyayPiyush/Zingbus-Operations-Optimization-Risk-Analytics-/blob/main/Graphs/img4.png)  
 This chart highlights routes with the highest Route Performance Score, calculated using demand, revenue, reliability, and delay metrics. These routes consistently generate strong bookings and revenue while maintaining acceptable service reliability. It indicates that customer demand on these corridors is higher than current service capacity. Zingbus can consider increasing bus frequency, allocating larger capacity buses, or applying dynamic pricing on these routes to maximize revenue. Expanding operations on these routes can directly improve seat occupancy and overall profitability.  
 
+
 ![img5](https://github.com/UpadhyayPiyush/Zingbus-Operations-Optimization-Risk-Analytics-/blob/main/Graphs/img5.png)  
 This chart shows routes with the lowest Route Performance Score, mainly due to lower booking demand rather than poor service reliability. These routes are not necessarily operational failures but appear to have insufficient passenger volume compared to deployed capacity. Running frequent buses on such routes may lead to underutilized seats and unnecessary operational costs. Zingbus should review scheduling frequency, adjust departure timings, or deploy smaller capacity buses on these routes. Optimizing capacity instead of completely removing these routes can help balance coverage and operational efficiency.  
+
 
 ## Key Insights 
 - Created relational database and imported 1.2M+ booking records
